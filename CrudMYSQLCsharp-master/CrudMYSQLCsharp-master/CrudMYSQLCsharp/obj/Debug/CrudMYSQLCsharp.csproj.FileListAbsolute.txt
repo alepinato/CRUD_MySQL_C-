@@ -1,0 +1,1 @@
+C:\Users\alepi\Desktop\CrudMYSQLCsharp-master\CrudMYSQLCsharp-master\CrudMYSQLCsharp\bin\Debug\CrudMYSQLCsharp.exe.config
